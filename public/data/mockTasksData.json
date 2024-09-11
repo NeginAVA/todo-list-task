@@ -1,0 +1,16 @@
+[
+  {
+    "userId": 1,
+    "id": 101,
+    "title": "Mock data to fill Doing cards",
+    "completed": false,
+    "status": "Doing"
+  },
+  {
+    "userId": 2,
+    "id": 102,
+    "title": "Start working on the project",
+    "completed": false,
+    "status": "Doing"
+  }
+]
