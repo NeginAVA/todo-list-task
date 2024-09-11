@@ -12,7 +12,7 @@ import useSearch from '../../hooks/useSearch.js';
 import Loading from '../Loading.jsx';
 import Error from '../Error.jsx';
 import NotFound from "../NotFound.jsx";
-import mockTasksData from '../../../public/data/mockTasksData.json';
+import mockTasksData from '../../data/mockTasksData.json';
 import styles from './TodoList.module.css';
 
 const {Option} = Select;
